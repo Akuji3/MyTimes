@@ -1,0 +1,45 @@
+* {
+  margin: 0px
+  padding: 0px;
+}
+
+/* Header */
+
+header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  padding-bottom: 7px;
+  border-bottom: 1px solid black;
+  margin-bottom: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logotop {
+  display: flex;
+  align-items: center;
+  color: mediumaquamarine;
+}
+
+.toptimes {
+  margin-left: 9px;
+}
+
+header span {
+  display: inline-block;
+  text-decoration: underline;
+  margin: 0px 5px;
+}
+
+/* Main Section */
+
+.main {
+  border-top: : 1px solid black;
+  text-align: center;
+}
+
+.mother {
+
+}
